@@ -1,0 +1,23 @@
+1)int* p = &a;
+
+2)double* p = &a;
+
+3)char* p = &a;
+
+4)int* p = &array[0];
+
+5)char* p = str[7];
+
+6)Book* pb = &b;
+
+b)float* pprice = &(b.price);
+
+c)char* pc = b.title[9];
+
+7)int* pp = &p;
+
+8)int* ppb = &pb;
+
+
+
+
